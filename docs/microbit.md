@@ -17,7 +17,7 @@
 - Se https://microbit.org
 - BBC micro:bit har rødder tilbage til [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) fra 80'erne 
 
-## Hvad er en BBS micro:bit
+## Hvad er en BBC micro:bit
 
 - Lille simpel microcontroller baseret på en 16 MHz 32bit ARM Cortex-M0 processor med 256 KB Flash og 16 KB RAM. Alt hardware er open source.
   - 25 LED
@@ -32,8 +32,13 @@
     
 ## Programmering
 
+![](https://microbit.org/images/both-editors.png)
+
 - Kan programmeres på mange måde men typisk bruges enten 
   - MakeCode  
   - JavaScript
   - Python
 - Men der findes [mange andre muligheder](https://en.wikipedia.org/wiki/Micro_Bit#Software) - herunder C++, Rust, MatLab, BASIC, Assembler og mange flere
+
+### MakeCode
+

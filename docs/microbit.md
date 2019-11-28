@@ -1,6 +1,12 @@
 # BBC micro:bit
 
-![](https://microbit.org/images/microbit-front.png) ![micro:bit](https://microbit.org/images/microbit-back.png)
+<table>
+  <tr>
+    <td><img src="https://microbit.org/images/microbit-front.png" width="300" /></td>
+    <td><img src="https://microbit.org/images/microbit-back.png" width="300" /></td>
+  </tr>
+</table>
+
 
 
 

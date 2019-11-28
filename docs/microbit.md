@@ -14,7 +14,7 @@
     - Microsoft
     - Amazon
     - British Counsil
-- Se https://microbit.org
+- Se [https://microbit.org](https://microbit.org)
 - BBC micro:bit har rødder tilbage til [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) fra 80'erne 
 
 ## Hvad er en BBC micro:bit
@@ -35,10 +35,30 @@
 ![](https://microbit.org/images/both-editors.png)
 
 - Kan programmeres på mange måde men typisk bruges enten 
-  - MakeCode  
-  - JavaScript
-  - Python
+  - [MakeCode (eller JavaScript)](https://makecode.microbit.org/) - link til online MS MakeCode Editor (dansk)
+  - [Python](https://python.microbit.org/v/2.0) - link til online Python editor
 - Men der findes [mange andre muligheder](https://en.wikipedia.org/wiki/Micro_Bit#Software) - herunder C++, Rust, MatLab, BASIC, Assembler og mange flere
 
-### MakeCode
+### Eksempel på MakeCode
+
+
+
+### Eksempel på Python
+
+```
+# Add your Python code here. E.g.
+from microbit import *
+
+
+while True:
+    display.scroll('Hello, World!')
+    display.show(Image.HEART)
+    sleep(2000)
+```
+
+## Dokumentation
+
+- Der findes masser af dokumentation 
+  - [https://microbit.org/guide/quick/](https://microbit.org/guide/quick/) - engelsk (og andre sprog)
+  - [https://www.dr.dk/skole/ultrabit](https://www.dr.dk/skole/ultrabit) - dansk
 

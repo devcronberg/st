@@ -2,11 +2,6 @@
 
 ![](https://microbit.org/images/microbit-hardware-access.jpg)
 
-<p style="float: left">
-  <img src="https://microbit.org/images/microbit-front.png" width="200" />
-  <img src="https://microbit.org/images/microbit-back.png" width="200" />
-</p>
-
 ## Bag micro:bit
 
 - "The Micro:bit Educational Foundation"
@@ -29,3 +24,16 @@
   - To knapper
   - Accelerometer (acceleration)
   - Magnetometer (kompas)
+  - Temperaturføler
+  - Lysføler
+  - Bluetooth / Radio
+  - USB
+  - 25 I/O porte til forskellige sensorer, motorer, lamper mv
+    
+## Programmering
+
+- Kan programmeres på mange måde men typisk bruges enten 
+  - MakeCode  
+  - JavaScript
+  - Python
+- Men der findes [mange andre muligheder](https://en.wikipedia.org/wiki/Micro_Bit#Software) - herunder C++, Rust, MatLab, BASIC, Assembler og mange flere

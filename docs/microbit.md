@@ -17,5 +17,5 @@
     - Amazon
     - British Counsil
 - Se https://microbit.org
-
+- BBC micro:bit har rødder tilbage til [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) fra 80'erne 
 

@@ -1,11 +1,9 @@
 # BBC micro:bit
 
-<table border=0 width=100% align=center>
-  <tr>
-    <td><img src="https://microbit.org/images/microbit-front.png" width="300" /></td>
-    <td><img src="https://microbit.org/images/microbit-back.png" width="300" /></td>
-  </tr>
-</table>
+<p style="float: left">
+<img src="https://microbit.org/images/microbit-front.png" width="200" />
+<img src="https://microbit.org/images/microbit-back.png" width="200" />
+  </p>
 
 
 

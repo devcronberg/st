@@ -58,16 +58,17 @@ input.onButtonPressed(Button.B, function () {
 ### Eksempel på Python
 
 ```
-import microbit
+from microbit import *
 
+
+# Start calibrating
+compass.calibrate()
+
+# Try to keep the needle pointed in (roughly) the correct direction
 while True:
-    if microbit.button_a.is_pressed() and microbit.button_b.is_pressed():        
-        microbit.display.scroll("")
-    elif microbit.button_a.is_pressed():
-        microbit.display.scroll(microbit.compassHeading())
-    elif microbit.button_b.is_pressed():
-        microbit.display.scroll(microbit.lightLevel())
-    microbit.sleep(100)
+    sleep(100)
+    needle = ((15 - compass.heading()) // 30) % 12
+    display.show(Image.ALL_CLOCKS[needle])
 ```
 
 ## Dokumentation

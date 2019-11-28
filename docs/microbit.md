@@ -13,7 +13,7 @@
   - Stiftere/bidragsgivere
     - BBC
     - ARM
-    - MicroSoft
+    - Microsoft
     - Amazon
     - British Counsil
 - Se https://microbit.org

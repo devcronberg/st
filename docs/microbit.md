@@ -79,7 +79,7 @@ while True:
 
 ## Dette site
 
-- Find dette site på **[https://github.com/devcronberg/st](https://github.com/devcronberg/st)**
+- Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)**
 
 ## Om Michell
 

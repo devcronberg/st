@@ -41,19 +41,33 @@
 
 ### Eksempel på MakeCode
 
+![](makecode.png)
+
+### Eksempel på JavaScript
+
+```
+input.onButtonPressed(Button.A, function () {
+    basic.showString("" + input.compassHeading())
+})
+input.onButtonPressed(Button.B, function () {
+    basic.showString("" + input.lightLevel())
+})
+```
 
 
 ### Eksempel på Python
 
 ```
-# Add your Python code here. E.g.
-from microbit import *
-
+import microbit
 
 while True:
-    display.scroll('Hello, World!')
-    display.show(Image.HEART)
-    sleep(2000)
+    if microbit.button_a.is_pressed() and microbit.button_b.is_pressed():        
+        microbit.display.scroll("")
+    elif microbit.button_a.is_pressed():
+        microbit.display.scroll(microbit.compassHeading())
+    elif microbit.button_b.is_pressed():
+        microbit.display.scroll(microbit.lightLevel())
+    microbit.sleep(100)
 ```
 
 ## Dokumentation

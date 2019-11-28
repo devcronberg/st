@@ -77,3 +77,11 @@ while True:
   - [https://microbit.org/guide/quick/](https://microbit.org/guide/quick/) - engelsk (og andre sprog)
   - [https://www.dr.dk/skole/ultrabit](https://www.dr.dk/skole/ultrabit) - dansk
 
+## Dette site
+
+- Find dette site på **[https://github.com/devcronberg/st](https://github.com/devcronberg/st)**
+
+## Om Michell
+
+- Michell Cronberg
+  - michell@cronberg.dk

@@ -77,6 +77,13 @@ while True:
   - [https://microbit.org/guide/quick/](https://microbit.org/guide/quick/) - engelsk (og andre sprog)
   - [https://www.dr.dk/skole/ultrabit](https://www.dr.dk/skole/ultrabit) - dansk
 
+## Køb i Danmark
+
+- Enheden kan (i flere pakker) købes mange steder i Danmark. Den kaldes typisk for Micro:Bit eller Ultra:Bit (DRs kanal)
+  - [BR](https://www.br.dk/legetoej/byggesaet/ultra-kodningssaet-ultra-bit/p/100411423?gclid=Cj0KCQiAoIPvBRDgARIsAHsCw080h-4DJl9ctMNLWMz4Nf-HFNZjllAgIuSMIBkPRjUjxBZcCnmTLREaAtWhEALw_wcB)
+  - [RasbarryPi](https://raspberrypi.dk/produkt/power-board-microbit/?gclid=Cj0KCQiAoIPvBRDgARIsAHsCw0_Z8cgP8l1zhwLo5I1XdCD98QytkxfhtYdxXTrmPS5lS_Lcp6WRBUcaAuM6EALw_wcB)
+  - [Bilka](https://www.bilka.dk/legetoej/konstruktionslegetoej/byggesaet/ultra-kodningssaet-ultra-bit/p/100411423)
+
 ## Dette site
 
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)**

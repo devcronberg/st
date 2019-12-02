@@ -90,7 +90,7 @@ while True:
 
 - Enheden kan (i flere pakker) købes mange steder i Danmark. Den kaldes typisk for Micro:Bit eller Ultra:Bit (DRs kanal). Den findes både som et enkelt board (ca kr. 100-150) eller som et "startsæt" med forskelligt tilbehør (ca. kr. 200-300)
   - [BR](https://www.br.dk/legetoej/byggesaet/ultra-kodningssaet-ultra-bit/p/100411423?gclid=Cj0KCQiAoIPvBRDgARIsAHsCw080h-4DJl9ctMNLWMz4Nf-HFNZjllAgIuSMIBkPRjUjxBZcCnmTLREaAtWhEALw_wcB)
-  - [RasbarryPi](https://raspberrypi.dk/produkt/bbc-microbit-kun-board/)
+  - [RasberryPi](https://raspberrypi.dk/produkt/bbc-microbit-kun-board/)
   - [Bilka](https://www.bilka.dk/legetoej/konstruktionslegetoej/byggesaet/ultra-kodningssaet-ultra-bit/p/100411423)
 
 ## Dette site

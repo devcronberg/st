@@ -28,7 +28,16 @@
   - Lysføler
   - Bluetooth / Radio
   - USB
-  - 25 I/O porte til forskellige sensorer, motorer, lamper mv
+  - 25 I/O porte til forskellige eksterne komponenter
+    - Sensorer 
+      - Temperatur
+      - Fugtighed
+      - Lyd      
+    - Motorer
+    - Relæer
+    - Låse
+    - Lamper
+    - mv
     
 ## Programmering
 

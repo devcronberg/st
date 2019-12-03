@@ -90,7 +90,7 @@ while True:
 ## Køb i Danmark
 
 - Enheden (i flere pakker) kan købes mange steder i Danmark. Den kaldes typisk for Micro:Bit eller Ultra:Bit. Den findes både som et enkelt board (ca kr. 100-150), en lille pakke med usb kabel og batteri (den vil jeg anbefale - ca kr 180) eller som et "startsæt" med forskelligt tilbehør (ca. kr. 200-300). 
-  - [Den lille pakke hos RasberryPi](https://raspberrypi.dk/produkt/bbc-microbit-starter-kit/)  
+  - [Diverse pakker hos RasberryPi](https://raspberrypi.dk/webshop/kategori/micro-bit-tilbehoer-kits/)  
   - [Pakke branded med DR:Ultra hos ProShop](https://www.proshop.dk/Leg-Laering/DR-ultrabit-Start-kit/2681151)
   - ["gave pakke" hos ArduinoShoppen](https://arduinoshoppen.dk/produkt/bbc-microbit-board-inkl-batteriholder-usb-kabel/)
   - [Den store pakke hos BR](https://www.br.dk/legetoej/byggesaet/ultra-kodningssaet-ultra-bit/p/100411423?gclid=Cj0KCQiAoIPvBRDgARIsAHsCw080h-4DJl9ctMNLWMz4Nf-HFNZjllAgIuSMIBkPRjUjxBZcCnmTLREaAtWhEALw_wcB)  

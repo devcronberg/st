@@ -89,6 +89,12 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)
 
+## Generelle links
+
+- [Planetarium](https://planetarium.dk/)
+- [Diverse applikationer til tlf/tablet](https://www.makeuseof.com/tag/great-android-astronomy-apps/)
+- [Fortællingen om universet af Tina Ipsen](https://www.pricerunner.dk/pl/802-2001729696/Boeger/Fortaellingen-om-Universet-Fra-Big-Bang-til-mennesket-i-dag-(E-bog-2019)-Sammenlign-Priser)
+
 ## Dette site
 
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))

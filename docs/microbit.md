@@ -107,4 +107,4 @@ Den kan også fås mange andre steder, men jeg kan anbefale køb hos Rasberrypi.
 - Michell Cronberg
   - michell@cronberg.dk
   
-  
+![](http://log.cronberg.dk/logimage?application=st_teknologisk&group1=microbit)

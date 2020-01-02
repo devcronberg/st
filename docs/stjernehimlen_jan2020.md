@@ -88,3 +88,12 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 - [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)
+
+## Dette site
+
+- Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))
+
+## Om Michell
+
+- Michell Cronberg er instruktør og konsulent på Teknologisk Institut
+  - michell@cronberg.dk

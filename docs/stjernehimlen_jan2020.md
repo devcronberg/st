@@ -10,7 +10,7 @@ I Januar 2020 er der forskellige spændende muligheder for at se elementer i det
 
 Venus er synlig på et rigtig godt tidspunkt fordi den står op om formiddagen og går ned omkring kl. 19 - så i ulvetimen lige før aftensmad er den meget synlig (mest synlige objekt på himlen).
 
-![billeder/venus_20200601.png]()
+![](billeder/venus_20200601.png)
 
 [https://www.timeanddate.com/astronomy/night/denmark/copenhagen](Billedet er fra TimeAndDate)
 

@@ -66,7 +66,19 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
     - SpaceX / Elon Musk vil sende mennesker til Mars i 2024
     - Se "Mars" på Netflix
     
-[Curiosity på Mars](https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg)
+![Curiosity på Mars](https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg)
 
+## ISS
+
+ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen.
+
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg" height=400 />
+
+[Billedet er fra NASA](https://www.nasa.gov/)
+
+### Links relateret til ISS
+
+- [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
+. [Spot the station](https://spotthestation.nasa.gov/tracking_map.cfm)
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)

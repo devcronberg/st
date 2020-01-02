@@ -68,6 +68,8 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
     
 <img src="https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg" height=400 />
 
+[Billedet er fra NASA](https://www.nasa.gov/)
+
 ## ISS
 
 ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen.

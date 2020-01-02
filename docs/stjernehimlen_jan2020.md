@@ -35,3 +35,19 @@ Du vil ikke være i tvivl for det er typisk det eneste objekt på himlen udover 
 [Billede fra Venera sonder bearbejdet af Ted Stryk](http://planetimages.blogspot.com/2015/03/venus-from-33-years-ago-and-why-we-need.html)
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)
+
+### Mars
+
+Mars er ligeledes synlig med det blotte øje men i modsætning til Venus skal den ses om morgenen - bedst omkring kl. 7
+
+![](billeder/mars_20200601.png)
+
+[Billedet er fra TimeAndDate](https://www.timeanddate.com/astronomy/night/denmark/copenhagen)
+
+Den kan ses som et rødt lysende objekt i syd-sydøst.
+
+#### Kort om Mars
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Mars_transparent.png" height=400 />
+
+[Billedet er fra WikiPedia](https://commons.wikimedia.org/wiki/Mars#/media/File:Mars_transparent.png)

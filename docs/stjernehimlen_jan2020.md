@@ -76,9 +76,13 @@ ISS (International Space Station) er altid et spændende syn, og bevæger sig hu
 
 [Billedet er fra NASA](https://www.nasa.gov/)
 
+ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også senere på måneden. Følg med på "Spot the station" fra NASA.
+
+![](billeder/iss_januar.png)
+
 ### Links relateret til ISS
 
 - [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
-. [Spot the station](https://spotthestation.nasa.gov/tracking_map.cfm)
+. [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)

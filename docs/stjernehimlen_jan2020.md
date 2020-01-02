@@ -87,8 +87,6 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 - [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
 - [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
 
-![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)
-
 ## Generelle links
 
 - [Planetarium](https://planetarium.dk/)
@@ -103,3 +101,5 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 
 - Michell Cronberg er instruktør og konsulent på Teknologisk Institut
   - michell@cronberg.dk
+
+![](http://log.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020&fromdate=2020-1-6)

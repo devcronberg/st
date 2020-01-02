@@ -12,7 +12,7 @@ Venus er synlig på et rigtig godt tidspunkt fordi den står op om formiddagen o
 
 ![](billeder/venus_20200601.png)
 
-[https://www.timeanddate.com/astronomy/night/denmark/copenhagen](Billedet er fra TimeAndDate)
+[Billedet er fra TimeAndDate](https://www.timeanddate.com/astronomy/night/denmark/copenhagen)
 
 
 

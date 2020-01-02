@@ -17,7 +17,7 @@ Venus er synlig på et rigtig godt tidspunkt fordi den står op om formiddagen o
 Du vil ikke være i tvivl for det er typisk det eneste objekt på himlen udover månen. Det ligner en stjerne men er altså Venus. Du kan finde den ved at finde månen (øst-sydøst), og kigge til højre (syd-sydvest). Det bedste tispunkt er omkring 17.
 
 
-#### Om Venus
+#### Kort om Venus
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Venus_globe.jpg/800px-Venus_globe.jpg" height=400 />
 
@@ -31,5 +31,7 @@ Du vil ikke være i tvivl for det er typisk det eneste objekt på himlen udover 
   - [Venera](https://en.wikipedia.org/wiki/Venera)
   
 ![](http://1.bp.blogspot.com/-8qrmACQxSpk/VPh-lwatYdI/AAAAAAAAdEw/-GeStuxE1p0/s1600/venera14panhorizonn1gooda.jpg)
+
+[Billede fra Venera sonder bearbejdet af Ted Stryk](http://planetimages.blogspot.com/2015/03/venus-from-33-years-ago-and-why-we-need.html)
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)

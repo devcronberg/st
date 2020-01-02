@@ -66,7 +66,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
     - SpaceX / Elon Musk vil sende mennesker til Mars i 2024
     - Se "Mars" på Netflix
     
-![Curiosity på Mars](https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg)
+<img src="https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg" height=400 />
 
 ## ISS
 
@@ -83,6 +83,6 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 ### Links relateret til ISS
 
 - [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
-. [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
+- [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
 
 ![](http://log1.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020)

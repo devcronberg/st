@@ -6,6 +6,8 @@ I Januar 2020 er der forskellige spændende muligheder for at se elementer i det
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Solar-System.pdf/page1-1600px-Solar-System.pdf.jpg)
 
+[Billede er fra WikiPedia](https://en.wikipedia.org/wiki/File:Solar-System.pdf)
+
 ### Venus
 
 Venus er synlig på et rigtig godt tidspunkt fordi den står op om formiddagen og går ned omkring kl. 19 - så i ulvetimen lige før aftensmad er den meget synlig (mest synlige objekt på himlen efter månen).

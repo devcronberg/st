@@ -27,6 +27,7 @@ Du vil ikke være i tvivl for det er typisk det eneste objekt på himlen udover 
 
 - Placeret mellem solen og jorden
   - ca 108.000.000 km fra solen (jorden er ca 150.000.000 km fra solen)
+    - ca 50 år med 100 km/t
 - Nogenlunde samme størrelse som jorden
 - Dækket af et skylag (der reflekterer solen) bestående af svovlsyre
 - Meget varm overflade (ca 450 grader) og et kraftig atmosfærisk tryk
@@ -57,6 +58,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
 
 - Placeret efter jorden
   - ca 250.000.000 km fra solen +/- (jorden er ca 150.000.000 km fra solen +/-)
+    - 100 år med 100 km/t
 - Størrelsen er omkring 50% af jorden
 - Tyngdekraft ca 1/3 af jordens
 - Temperatur på overfladen er i gns -60 grader (min -140 max 20)

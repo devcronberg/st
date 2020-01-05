@@ -66,7 +66,8 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
   - en masse snak om kommende misioner til Mars - med både robotter og mennesker
     - [Mars 2020](https://www.jpl.nasa.gov/missions/mars-2020/)
     - SpaceX / Elon Musk vil sende mennesker til Mars i 2024
-    - Se "Mars" på Netflix
+    - Se "Mars" på Netflix (link til [NetFlix](https://www.netflix.com/search?q=mars))
+      - 2 sæsoner (12 afsnit)
     
 <img src="https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg" height=400 />
 

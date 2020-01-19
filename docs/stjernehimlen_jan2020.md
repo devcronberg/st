@@ -4,11 +4,11 @@ I Januar 2020 er der forskellige spændende muligheder for at se elementer i det
 
 ## Stjerneskud
 
-D. 4 januar efter midnat vil meteorsværmen Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.
+D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.
 
 ![](https://videnskab.dk/files/styles/columns_12_12_desktop/public/articles_inline/bootes_stjernebillede_bjoernevogteren_karlsvognen_kvadrantiderne.jpg?itok=fcwoR_6T&timestamp=1576495351)
 
-[Ref](https://videnskab.dk/teknologi-innovation/kig-op-i-januar-reklameskilte-i-rummet-og-paa-maanen-er-kommet-taettere-paa)
+[Billedet er fra videnskab.dk](https://videnskab.dk/teknologi-innovation/kig-op-i-januar-reklameskilte-i-rummet-og-paa-maanen-er-kommet-taettere-paa)
 
 ## Planeter
 

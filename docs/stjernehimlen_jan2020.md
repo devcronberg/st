@@ -2,6 +2,14 @@
 
 I Januar 2020 er der forskellige spændende muligheder for at se elementer i det univers vi alle er en del af. Ta' ungerne og resten af familien med ud og bliv overvældet - det kræver ikke andet end varmt tøj og lidt timning. Vinteren kan være træls på mange måde, men det bliver tidligt mørkt og sent lyst, og det giver gode bestingelser for at se op og ud.
 
+## Stjerneskud
+
+D. 4 januar efter midnat vil meteorsværmen Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.
+
+![](https://videnskab.dk/files/styles/columns_12_12_desktop/public/articles_inline/bootes_stjernebillede_bjoernevogteren_karlsvognen_kvadrantiderne.jpg?itok=fcwoR_6T&timestamp=1576495351)
+
+[Ref](https://videnskab.dk/teknologi-innovation/kig-op-i-januar-reklameskilte-i-rummet-og-paa-maanen-er-kommet-taettere-paa)
+
 ## Planeter
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Solar-System.pdf/page1-1600px-Solar-System.pdf.jpg)

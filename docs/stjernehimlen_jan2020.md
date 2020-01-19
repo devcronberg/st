@@ -85,7 +85,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
 
 ## ISS
 
-ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen.
+ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen. Den er i kredsløb omkring 400 km over jorden med en fart af omkring 27.000 km/timen, og har dermed en solopgang/nedgang ca hver 1.5 time. ISS er fra 1998 og har pt 6 astronauter om bord.
 
 <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg" height=400 />
 

@@ -94,6 +94,7 @@ ISS (International Space Station) er altid et spændende syn, og bevæger sig hu
 ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også senere på måneden. Følg med på "Spot the station" fra NASA.
 
 ![](billeder/iss_januar.png)
+![](billeder/iss_januar2.png)
 
 ### Links relateret til ISS
 

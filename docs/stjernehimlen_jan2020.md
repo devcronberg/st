@@ -37,7 +37,7 @@ Du vil ikke være i tvivl for det er typisk det eneste objekt på himlen udover 
 
 #### Kort om Venus
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Venus_globe.jpg/800px-Venus_globe.jpg" height=400 />
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Venus_globe.jpg/800px-Venus_globe.jpg)
 
 [Billedet er fra WikiPedia](https://commons.wikimedia.org/w/index.php?search=venus&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Venus_globe.jpg)
 
@@ -68,7 +68,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
 
 #### Kort om Mars
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Mars_transparent.png" height=400 />
+![](https://upload.wikimedia.org/wikipedia/commons/2/27/Mars_transparent.png")
 
 [Billedet er fra WikiPedia](https://commons.wikimedia.org/wiki/Mars#/media/File:Mars_transparent.png)
 
@@ -87,7 +87,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
     - Se "Mars" på Netflix (link til [NetFlix](https://www.netflix.com/search?q=mars))
       - 2 sæsoner (12 afsnit)
     
-<img src="https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg" height=400 />
+![](https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg)
 
 [Billedet er fra NASA](https://www.nasa.gov/)
 
@@ -95,7 +95,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
   
 ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen. Den er i kredsløb omkring 400 km over jorden med en fart af omkring 27.000 km/timen, og har dermed en solopgang/nedgang ca hver 1.5 time. ISS er fra 1998 og har pt 6 astronauter om bord.
 
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg" height=400 />
+![](https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg)
 
 [Billedet er fra NASA](https://www.nasa.gov/)
 

@@ -4,6 +4,7 @@ I Januar 2020 er der forskellige spændende muligheder for at se elementer i det
 
 <details>
   <summary>Stjerneskud</summary>
+  
 D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.
 
 ![](https://videnskab.dk/files/styles/columns_12_12_desktop/public/articles_inline/bootes_stjernebillede_bjoernevogteren_karlsvognen_kvadrantiderne.jpg?itok=fcwoR_6T&timestamp=1576495351)
@@ -90,6 +91,7 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
 
 <details>
   <summary>ISS</summary>
+  
 ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen. Den er i kredsløb omkring 400 km over jorden med en fart af omkring 27.000 km/timen, og har dermed en solopgang/nedgang ca hver 1.5 time. ISS er fra 1998 og har pt 6 astronauter om bord.
 
 <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg" height=400 />
@@ -108,6 +110,7 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 
 <details>
   <summary>Andre nyheder og spændende ting</summary>
+  
 ## 19/01
 [SpaceX Crew Dragon In-Flight Falcon 9 Abort Test](https://www.youtube.com/watch?v=ARIZnaMXTEU)
   
@@ -117,6 +120,8 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 
 <details>
   <summary>Generelle links</summary>
+  
+  
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))
 - [Planetarium](https://planetarium.dk/)
 - [Diverse applikationer til tlf/tablet](https://www.makeuseof.com/tag/great-android-astronomy-apps/)

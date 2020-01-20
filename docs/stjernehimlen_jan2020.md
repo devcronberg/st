@@ -1,6 +1,6 @@
 # Stjernehimlen i januar 2020
 
-I Januar 2020 er der forskellige spændende muligheder for at se elementer i det univers vi alle er en del af. Ta' ungerne og resten af familien med ud og bliv overvældet - det kræver ikke andet end varmt tøj og lidt timning. Vinteren kan være træls på mange måde, men det bliver tidligt mørkt og sent lyst, og det giver gode betingelser for at se op og ud.
+I Januar 2020 er der forskellige spændende muligheder for at se elementer i det univers vi alle er en del af. Ta' ungerne og resten af familien med ud og bliv overvældet - det kræver ikke andet end varmt tøj og lidt timming. Vinteren kan være træls på mange måder, men det bliver tidligt mørkt og sent lyst, og det giver gode betingelser for at se op og ud.
 
 <details>
   <summary>Stjerneskud</summary>

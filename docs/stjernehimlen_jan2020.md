@@ -2,8 +2,7 @@
 
 I Januar 2020 er der forskellige spændende muligheder for at se elementer i det univers vi alle er en del af. Ta' ungerne og resten af familien med ud og bliv overvældet - det kræver ikke andet end varmt tøj og lidt timming. Vinteren kan være træls på mange måder, men det bliver tidligt mørkt og sent lyst, og det giver gode betingelser for at se op og ud.
 
-<details>
-  <summary>Stjerneskud</summary>
+## Stjerneskud
   
 D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.
 
@@ -11,11 +10,8 @@ D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantid
 
 [Billedet er fra videnskab.dk](https://videnskab.dk/teknologi-innovation/kig-op-i-januar-reklameskilte-i-rummet-og-paa-maanen-er-kommet-taettere-paa)
   
-</details>
 
-
-<details>
-  <summary>Planeter</summary>
+## Planeter
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Solar-System.pdf/page1-1600px-Solar-System.pdf.jpg)
 
@@ -87,10 +83,8 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
 <img src="https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg" height=400 />
 
 [Billedet er fra NASA](https://www.nasa.gov/)
-</details>
 
-<details>
-  <summary>ISS</summary>
+## ISS
   
 ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen. Den er i kredsløb omkring 400 km over jorden med en fart af omkring 27.000 km/timen, og har dermed en solopgang/nedgang ca hver 1.5 time. ISS er fra 1998 og har pt 6 astronauter om bord.
 
@@ -108,30 +102,26 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 - [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
 </details>
 
-<details>
-  <summary>Andre nyheder og spændende ting</summary>
+## Andre nyheder og spændende ting
   
-## 19/01
+### 19/01
 [SpaceX Crew Dragon In-Flight Falcon 9 Abort Test](https://www.youtube.com/watch?v=ARIZnaMXTEU)
   
 ![](https://cdn.mos.cms.futurecdn.net/QVseCSZiQevdSu5nVYWHjM-650-80.jpg)
 [Ref](https://www.space.com/spacex-crew-dragon-in-flight-abort-test-photos.html)
-</details>
 
-<details>
-  <summary>Generelle links</summary>
+## Generelle links
   
   
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))
 - [Planetarium](https://planetarium.dk/)
 - [Diverse applikationer til tlf/tablet](https://www.makeuseof.com/tag/great-android-astronomy-apps/)
 - [Fortællingen om universet af Tina Ipsen](https://www.pricerunner.dk/pl/802-2001729696/Boeger/Fortaellingen-om-Universet-Fra-Big-Bang-til-mennesket-i-dag-(E-bog-2019)-Sammenlign-Priser)
+
 ## Om Michell
 
 - Michell Cronberg er instruktør og konsulent på Teknologisk Institut
   - michell@cronberg.dk
 
 ![](http://log.cronberg.dk/logimage?application=st_teknologisk&group1=stjernehimlen_jan2020&fromdate=2020-1-6)
-
-</details>
 

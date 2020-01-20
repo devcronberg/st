@@ -108,7 +108,7 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 
 <details>
   <summary>Andre nyheder og spændende ting</summary>
-  - 19/01 [SpaceX Crew Dragon In-Flight (Falcon 9) Abort Test](https://www.youtube.com/watch?v=ARIZnaMXTEU)
+  - 19/01 [SpaceX Crew Dragon In-Flight - Falcon 9 - Abort Test](https://www.youtube.com/watch?v=ARIZnaMXTEU)
   
 ![](https://cdn.mos.cms.futurecdn.net/QVseCSZiQevdSu5nVYWHjM-650-80.jpg)
 [Ref](https://www.space.com/spacex-crew-dragon-in-flight-abort-test-photos.html)

@@ -107,6 +107,11 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 </details>
 
 <details>
+  <summary>Andre nyheder og spændende ting</summary>
+  - 19/01 [SpaceX Crew Dragon In-Flight (Falcon 9) Abort Test](https://www.youtube.com/watch?v=ARIZnaMXTEU)
+</details>
+
+<details>
   <summary>Generelle links</summary>
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))
 - [Planetarium](https://planetarium.dk/)

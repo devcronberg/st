@@ -2,6 +2,13 @@
 
 I Januar 2020 er der forskellige spændende muligheder for at se elementer i det univers vi alle er en del af. Ta' ungerne og resten af familien med ud og bliv overvældet - det kræver ikke andet end varmt tøj og lidt timming. Vinteren kan være træls på mange måder, men det bliver tidligt mørkt og sent lyst, og det giver gode betingelser for at se op og ud.
 
+## Agenda
+
+- Stjerneskud
+- Planeter
+- ISS
+- Nyheder og andet spændende
+
 ## Stjerneskud
   
 D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.

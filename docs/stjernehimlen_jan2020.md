@@ -3,7 +3,7 @@
 I Januar 2020 er der forskellige spændende muligheder for at se elementer i det univers vi alle er en del af. Ta' ungerne og resten af familien med ud og bliv overvældet - det kræver ikke andet end varmt tøj og lidt timning. Vinteren kan være træls på mange måde, men det bliver tidligt mørkt og sent lyst, og det giver gode bestingelser for at se op og ud.
 
 <details>
-  <summary>## Stjerneskud</summary>
+  <summary>Stjerneskud</summary>
 D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantiderne give en del stjerneskud - 100-200 i timen. De vil have udgangspunkt omkring karlsvognen.
 
 ![](https://videnskab.dk/files/styles/columns_12_12_desktop/public/articles_inline/bootes_stjernebillede_bjoernevogteren_karlsvognen_kvadrantiderne.jpg?itok=fcwoR_6T&timestamp=1576495351)
@@ -13,8 +13,8 @@ D. 4 januar efter midnat vil den årligt tilbagevendende meteorsværm Kvadrantid
 </details>
 
 
-
-## Planeter
+<details>
+  <summary>Planeter</summary>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Solar-System.pdf/page1-1600px-Solar-System.pdf.jpg)
 
@@ -86,9 +86,10 @@ Den kan ses som et rødt lysende objekt i syd-sydøst.
 <img src="https://mars.nasa.gov/system/resources/detail_files/22495_PIA23240_1000w.jpg" height=400 />
 
 [Billedet er fra NASA](https://www.nasa.gov/)
+</details>
 
-## ISS
-
+<details>
+  <summary>ISS</summary>
 ISS (International Space Station) er altid et spændende syn, og bevæger sig hurtigt hen over himlen. Den er i kredsløb omkring 400 km over jorden med en fart af omkring 27.000 km/timen, og har dermed en solopgang/nedgang ca hver 1.5 time. ISS er fra 1998 og har pt 6 astronauter om bord.
 
 <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg" height=400 />
@@ -99,11 +100,12 @@ ISS kan ses i starten af Januar i nogle minutter om morgenen og sikkert også se
 
 ![](billeder/iss_januar.png)
 ![](billeder/iss_januar2.png)
-
 ### Links relateret til ISS
 
 - [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
 - [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk)
+</details>
+
 
 ## Generelle links
 

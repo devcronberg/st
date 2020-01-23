@@ -2,6 +2,6 @@
 
 - Kvantecomputere
 - Stjernehimlen i denne måned
-- Tekniske museer
+- Tekniske museer i DK
 - Danfysik
 - FabLab

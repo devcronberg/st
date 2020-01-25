@@ -1,16 +1,10 @@
 # Mars
 
-### Mars
-
-Mars er ligeledes synlig med det blotte øje men i modsætning til Venus skal den ses om morgenen - bedst omkring kl. 7
-
 ![](billeder/mars_20200601.png)
 
 [Billedet er fra TimeAndDate](https://www.timeanddate.com/astronomy/night/denmark/copenhagen)
 
-Den kan ses som et rødt lysende objekt i syd-sydøst.
-
-#### Kort om Mars
+## Kort om Mars
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/27/Mars_transparent.png)
 

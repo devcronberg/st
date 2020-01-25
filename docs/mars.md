@@ -1,11 +1,5 @@
 # Mars
 
-![](billeder/mars_20200601.png)
-
-[Billedet er fra TimeAndDate](https://www.timeanddate.com/astronomy/night/denmark/copenhagen)
-
-## Kort om Mars
-
 ![](https://upload.wikimedia.org/wikipedia/commons/2/27/Mars_transparent.png)
 
 [Billedet er fra WikiPedia](https://commons.wikimedia.org/wiki/Mars#/media/File:Mars_transparent.png)

@@ -1,13 +1,5 @@
 # Venus
 
-![](billeder/venus_20200601.png)
-
-[Billedet er fra TimeAndDate](https://www.timeanddate.com/astronomy/night/denmark/copenhagen)
-
-Du vil ikke være i tvivl for det er typisk det eneste objekt på himlen udover månen. Det ligner en stjerne men er altså Venus. Du kan finde den ved at finde månen (øst-sydøst), og kigge til højre (syd-sydvest). Det bedste tispunkt er omkring 17.
-
-## Kort om Venus
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Venus_globe.jpg/800px-Venus_globe.jpg)
 
 [Billedet er fra WikiPedia](https://commons.wikimedia.org/w/index.php?search=venus&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Venus_globe.jpg)

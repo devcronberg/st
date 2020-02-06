@@ -28,6 +28,10 @@ ISS (International Space Station) er altid et spændende syn, og bevæger sig hu
 
 Du kan altid finde ud af hvornår ISS kan ses fra din position på [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk), og det kan være spændende at se NASA's live feed på [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html).
 
+## Betelgeuse
+
+En af de mest omtalte stjerner i øjeblikket er stjernen Betelgeuse, som kan findes i Orion stjernetegnet. Det var på et tidspunkt en af de klareste stjerne på himlen men er begyndt at pulsere (bliver kraftiger og svagere). Det kan indikere, at den nærmer sig en supernova eksplosion.
+
 ## Generelle links
 
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))

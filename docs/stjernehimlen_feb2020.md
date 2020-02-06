@@ -32,6 +32,10 @@ Du kan altid finde ud af hvornår ISS kan ses fra din position på [Spot the sta
 
 En af de mest omtalte stjerner i øjeblikket er stjernen Betelgeuse, som kan findes i Orion stjernetegnet. Det var på et tidspunkt en af de klareste stjerne på himlen men er begyndt at pulsere (bliver kraftiger og svagere). Det kan indikere, at den nærmer sig en supernova eksplosion.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orion_Head_to_Toe.jpg/200px-Orion_Head_to_Toe.jpg)
+
+[Ref](https://en.wikipedia.org/wiki/Betelgeuse)
+
 ## Generelle links
 
 - Find dette site på **[https://devcronberg.github.io/st](https://devcronberg.github.io/st)** ([slide](https://docs.google.com/presentation/d/e/2PACX-1vSYJmr48OWY-MgXNIX2ZkcIbSke84ydsq8je4NwNrTjGohP1BOJPNWiHZpf01OZ3hsnnxhkxeLnqC47/pub?start=true&loop=false&delayms=3000))

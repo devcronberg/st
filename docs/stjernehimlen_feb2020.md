@@ -5,7 +5,6 @@
 - Planeter
 - ISS
 - Betelgeuse
-- Planetariet
 
 ## Planeter
 

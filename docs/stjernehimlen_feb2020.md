@@ -1,4 +1,4 @@
-# Stjernehimlen i febrauar 2020
+# Stjernehimlen i februar 2020
 
 ## Agenda
 

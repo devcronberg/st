@@ -14,7 +14,7 @@
   - kan flyde på vand
 - Kendt for sine ringe
   - is og sted (6.000 - 130.000 km fra ævator men ikke så tykke - 100-500m)
-- [Cassini–Huygens](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) fra 1997 har været rundt om Saturn og sågar landet en probe på Titan (en af Saturns måner)
+- [Cassini–Huygens](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) fra 1997 har været rundt om Saturn og sågar landet en probe på Titan (en af Saturns måner). Cassini brændte op (kontrolleret) i atmosfæren på Saturn i 2017.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ea/8423_20181_1saturn2016.jpg)
 

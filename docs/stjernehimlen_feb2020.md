@@ -35,7 +35,7 @@ Du kan altid finde ud af hvornår ISS kan ses fra din position på [Spot the sta
 
 ### StarLink
 
-SpaceX er ved at deploye flere tusinde mindre satelitter i kredsløb for at tilbyde internet til alle. De er placeret i ca 1000 km højde, men kan ses fra jorden (især inden de er flyttet til den endelige højde).
+SpaceX er ved at deploye flere tusinde mindre satelitter i kredsløb for at tilbyde internet til alle. De er placeret i ca 500 km højde, men kan ses fra jorden (især inden de er flyttet til den endelige højde).
 
 Se evt https://findstarlink.com/
 

@@ -3,7 +3,7 @@
 ## Agenda
 
 - Planeter
-- ISS
+- ISS / Starlink
 - Betelgeuse
 
 ## Planeter
@@ -32,6 +32,16 @@ ISS (International Space Station) er altid et spændende syn, og bevæger sig hu
 [Billedet er fra NASA](https://www.nasa.gov/)
 
 Du kan altid finde ud af hvornår ISS kan ses fra din position på [Spot the station](https://spotthestation.nasa.gov/sightings/view.cfm?country=Denmark&region=None&city=Frederiksberg#.Xg4TYkf0mUk), og det kan være spændende at se NASA's live feed på [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html).
+
+### StarLink
+
+SpaceX er ved at deploye flere tusinde mindre satelitter i kredsløb for at tilbyde internet til alle. De er placeret i ca 1000 km højde, men kan ses fra jorden (især inden de er flyttet til den endelige højde).
+
+Se evt https://findstarlink.com/
+
+![](https://cdn.mos.cms.futurecdn.net/5DkmeFPh2JkqiSgc5qRZEN-650-80.jpg)
+
+[Ref](https://www.space.com/see-spacex-starlink-satellites-in-night-sky.html)
 
 ## Betelgeuse
 

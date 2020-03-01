@@ -5,6 +5,7 @@
 - [Planeterne](planeterne.md)
 - [ISS](iss.md)
 - [Betelgeuse](betelgeuse.md)
+- [Supermåne](supermåne.md)
 - [Generelle links](stjernehimlen_links.md)
 - [Om Michell](ommichell.md)
 

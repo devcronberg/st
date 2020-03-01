@@ -1,6 +1,6 @@
 # Supermåne
 
-En supermåne opstår når den er tættest på jorden i sit kredsløb. Den er dog kun ca 40.000 km tættere på os og er dermed lidt større og lyser lidt kraftigere.
+En supermåne opstår når den som fuldmåne er tættest på jorden i sit kredsløb. Den er dog kun ca 40.000 km tættere på os og er dermed blot lidt større og lyser lidt kraftigere.
 
 ![](https://videnskab.dk/files/styles/columns_6_12_desktop/public/articles_inline/supermaanebillede_0.jpg?itok=1bHSXrUG&timestamp=1475067687)
 

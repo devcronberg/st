@@ -15,3 +15,9 @@ En supermåne opstår når den som fuldmåne er tættest på jorden i sit kredsl
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/500px-Full_Moon_Luc_Viatour.jpg)
 
 [Ref](https://da.wikipedia.org/wiki/M%C3%A5nen)
+
+### Månefaser
+
+Se [YouTube](https://www.youtube.com/watch?v=p-UaJsfkQsQ)
+
+![](https://www.youtube.com/watch?v=p-UaJsfkQsQ)

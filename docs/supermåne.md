@@ -20,4 +20,3 @@ En supermåne opstår når den som fuldmåne er tættest på jorden i sit kredsl
 
 Se [YouTube](https://www.youtube.com/watch?v=p-UaJsfkQsQ)
 
-![](https://www.youtube.com/watch?v=p-UaJsfkQsQ)

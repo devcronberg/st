@@ -41,8 +41,6 @@
     
 ## Programmering
 
-![](https://microbit.org/images/both-editors.png)
-
 - Kan programmeres på mange måde men typisk bruges enten 
   - [MakeCode (eller JavaScript)](https://makecode.microbit.org/) - link til online MS MakeCode Editor (dansk)
   - [Python](https://python.microbit.org/v/2.0) - link til online Python editor

@@ -1,6 +1,6 @@
 # BBC micro:bit
 
-![](https://microbit.org/images/microbit-hardware-access.jpg)
+![](https://cdn.sanity.io/images/ajwvhvgo/production/86e5da4fed89ce6729b522e6e8a8f12c88a2d7f1-790x635.png?bg=fff&w=648&h=476&fit=min)
 
 ## Bag micro:bit
 
